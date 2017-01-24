@@ -1,5 +1,7 @@
 # SampleApp-Webhooks-Java
-SampleApp-Webhooks-Java
+SampleApp-Webhooks-Java 
+
+[![Build Status](https://travis-ci.org/diana-derose/SampleApp-Webhooks-Java.svg?branch=master)](https://travis-ci.org/diana-derose/SampleApp-Webhooks-Java)
 
 <p>Welcome to the Intuit Developer's Webhooks Java Sample App.</p>
 <p>This sample app is meant to provide working examples of how to integrate your app with the Intuit Small Business ecosystem.  Specifically, this sample application demonstrates the following:</p>
